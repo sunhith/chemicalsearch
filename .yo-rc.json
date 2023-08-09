@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.application.chemicalsearch"
+    },
+    "jhipsterVersion": "6.4.0",
+    "applicationType": "microservice",
+    "baseName": "",
+    "packageName": "com.application.chemicalsearch",
+    "packageFolder": "com/application/chemicalsearch",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDgyOGYxNTdhZWNmNmY1NWNjNjgxNzgyZTc4ZDUwYjUyNjdlOWQyZDE1ZGY0MTdiODJiNTZlYjUxNTQ3YTcyNWZlYjEwOTY5Y2E3MjllYzIzZDVjMWNkYTcwM2IzZGZjYTU5ZWQyYTRiMDQxODE4YjA4ODgyYzVlNTk3NWY2ZDA=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
